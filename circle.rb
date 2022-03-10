@@ -8,5 +8,9 @@ class Circle
   def print_stuff
     puts @x + @y
   end
+
+  def changes
+    print "yeah"
+  end
   
 end
