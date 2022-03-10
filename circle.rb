@@ -4,5 +4,9 @@ class Circle
     @x = x
     @y = y
   end
+
+  def print_stuff
+    puts @x + @y
+  end
   
 end
